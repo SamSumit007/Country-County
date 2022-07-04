@@ -1,0 +1,46 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "Sri Lanka",
+      "id": 4
+    },
+    {
+      "country": "England",
+      "id": 5
+    },
+    {
+      "country": "England",
+      "id": 6
+    }
+  ],
+  "cities": [
+    {
+      "country": "India",
+      "city": "NEW DELHI",
+      "population": "19000000",
+      "id": 1
+    },
+    {
+      "country": "USA",
+      "city": "Chicago",
+      "population": "2,920,000",
+      "id": 3
+    },
+    {
+      "country": "Sri lanka",
+      "city": "colombo",
+      "population": "120000",
+      "id": 4
+    },
+    {
+      "country": "Australia",
+      "city": "Melbourne",
+      "population": "5000",
+      "id": 5
+    }
+  ]
+}
